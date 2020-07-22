@@ -1,8 +1,10 @@
 # express-gzip
 
+This project is a small http-response demo in gzip format.
 
 ### prerequisite
  - node v12.16.1
+ - Express.js v4.17.1
  - vscode
  - git
 
